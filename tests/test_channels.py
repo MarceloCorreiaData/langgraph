@@ -1,4 +1,4 @@
-import operator
+import operator  
 from contextlib import asynccontextmanager, contextmanager
 from typing import AsyncGenerator, Generator, Sequence, Union
 
